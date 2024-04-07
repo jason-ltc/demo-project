@@ -1,0 +1,5 @@
+theme: jekyll-theme-slate
+title: My Demo Project
+description: This is a jason's demo project.
+baseurl: /
+show_downloads: true
