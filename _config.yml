@@ -1,11 +1,19 @@
 title: Kubernetes Data Platform
 description: >-
   KDP(Kubernetes Data Platform) delivers a modern, hybrid and cloud-native data platform based on Kubernetes.
-remote_theme: "jeffreytse/jekyll-theme-yat"
+markdown: GFM
+plugins:
+    - jekyll-remote-theme
 
+# cayman theme
+remote_theme: pages-themes/cayman@v0.2.0
+show_downloads: false
+
+# yat theme
+# remote_theme: "jeffreytse/jekyll-theme-yat"
 # favicon: "https://linktime-public.oss-cn-qingdao.aliyuncs.com/linktime-homepage/kdp/kdp-logo-small.png"
-defaults:
-  home:
-    heading: "Kubernetes Data Platform"
-    subheading: "KDP(Kubernetes Data Platform) delivers a modern, hybrid and cloud-native data platform based on Kubernetes."
-    banner: "https://linktime-public.oss-cn-qingdao.aliyuncs.com/linktime-homepage/kdp/kdp-banner-en.png"
+# defaults:
+#   home:
+#     heading: "Kubernetes Data Platform"
+#     subheading: "KDP(Kubernetes Data Platform) delivers a modern, hybrid and cloud-native data platform based on Kubernetes."
+#     banner: "https://linktime-public.oss-cn-qingdao.aliyuncs.com/linktime-homepage/kdp/kdp-banner-en.png"
