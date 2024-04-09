@@ -1,5 +1,5 @@
 ---
-layout: default
+id: catalogs_en
 ---
 
 # Catalogs
