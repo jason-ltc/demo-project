@@ -8,29 +8,32 @@ plugins:
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 color-scheme: auto
 logo: https://linktime-public.oss-cn-qingdao.aliyuncs.com/linktime-homepage/kdp/kdp-logo.png
+favicon: true
 platforms:
   - name: GitHub
+    icon: <i class="fa fa-github" aria-hidden="true"></i>
     link: https://github.com/linktimecloud/kubernetes-data-platform
   - name: LinkTime Cloud
+    icon: <i class="fa fa-users" aria-hidden="true"></i>
     link: https://www.linktimecloud.com/
 navigation:
   - name: Getting Started
-    link: ./docs/en/overview/overview.html
+    link: docs/en/overview/overview.html
     sublist:
       - name: Architecture
-        link: ./docs/en/overview/overview.html#architecture
+        link: docs/en/overview/overview.html#architecture
       - name: Advantages
-        link: ./docs/en/overview/overview.html#advantages
+        link: docs/en/overview/overview.html#advantages
       - name: Highlights
-        link: ./docs/en/overview/overview.html#highlights
+        link: docs/en/overview/overview.html#highlights
       - name: Quick Start
-        link: ./docs/en/overview/overview.html#quickstart
+        link: docs/en/overview/overview.html#quickstart
       - name: Advanced Installation
-        link: ./docs/en/overview/overview.html#advanced-install
+        link: docs/en/overview/overview.html#advanced-install
   - name: Catalogs
-    link: ./docs/en/catalog-overview/catalogs.html
+    link: docs/en/catalog-overview/catalogs.html
   - name: Developer Guide
-    link: ./docs/en/developer-guide/developer-guide.html
+    link: docs/en/developer-guide/developer-guide.html
 
 
 #remote_theme: granbom/jekyll-theme-bootstrap4-navbar-cdn
