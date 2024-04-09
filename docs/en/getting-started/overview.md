@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Overview
 
 KDP(Kubernetes Data Platform) delivers a modern, hybrid and cloud-native data platform based on Kubernetes. It leverages the cloud-native capabilities of Kubernetes to manage data platform effectively.
@@ -61,3 +65,9 @@ KDP provides cloud-native scheduling mechanisms for computing engine components 
 | Kafka | * Extends Strimzi Kafka Operator from the open source community <br> * Integrates the Kafka cluster management web UI |
 | Flink | * Extends Flink Operator from the open source community <br> * Supports unified scheduling of Flink and Spark jobs |
 | ... | ... |
+
+## Quick Start
+For quick start of KDP, please refer to [Quick Start](./quick-start.md)
+
+## Advanced Installation
+For advanced installation of KDP, please refer to [Advanced Installation](./advanced-install.md)

@@ -5,7 +5,46 @@ markdown: GFM
 plugins:
     - jekyll-remote-theme
 
-remote_theme: granbom/jekyll-theme-bootstrap4-navbar-cdn
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+color-scheme: auto
+logo: https://linktime-public.oss-cn-qingdao.aliyuncs.com/linktime-homepage/kdp/kdp-logo.png
+platforms:
+  - name: GitHub
+    link: https://github.com/linktimecloud/kubernetes-data-platform
+  - name: LinkTime Cloud
+    link: https://www.linktimecloud.com/
+navigation:
+  - name: Home
+    link: ./index.html
+    sublist:
+      - name: Getting Started
+        link: ./index.html#Getting Started
+      - name: Community
+        link: ./index.html#Community
+      - name: Contributing
+        link: ./index.html#Contributing
+      - name: Code of Conduct
+        link: ./index.html#Code of Conduct
+  - name: Getting Started
+    link: ./docs/en/overview/index.html
+    sublist:
+      - name: Architecture
+        link: ./docs/en/overview/index.html#Architecture
+      - name: Advantages
+        link: ./docs/en/overview/index.html#Advantages
+      - name: Highlights
+        link: ./docs/en/overview/index.html#Highlights
+      - name: Quick Start
+        link: ./docs/en/overview/index.html#Quick\ Start
+      - name: Advanced Installation
+        link: ./docs/en/overview/index.html#Advanced\ Installation
+  - name: Catalogs
+    link: ./docs/en/catalog-overview/index.html
+  - name: Developer Guide
+    link: ./docs/en/developer-guide/index.html
+
+
+#remote_theme: granbom/jekyll-theme-bootstrap4-navbar-cdn
 
 # remote_theme: pages-themes/cayman@v0.2.0
 # show_downloads: false
