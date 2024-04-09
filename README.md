@@ -1,4 +1,4 @@
-![KDP](https://linktime-public.oss-cn-qingdao.aliyuncs.com/linktime-homepage/kdp/kdp-logo.png)
+<img src="https://linktime-public.oss-cn-qingdao.aliyuncs.com/linktime-homepage/kdp/kdp-logo.png" alt="drawing" width="1024" height="768"/>
 
 ![Tests](https://github.com/linktimecloud/kubernetes-data-platform/actions/workflows/unit-test.yml/badge.svg)
 ![Build](https://github.com/linktimecloud/kubernetes-data-platform/actions/workflows/ci-build.yml/badge.svg)
