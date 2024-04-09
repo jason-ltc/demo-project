@@ -8,6 +8,9 @@ plugins:
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 search_enabled: true
 sidebar:
+  - label: Home
+    children:
+      - home_en
   - label: Getting Started
     children:
       - overview_en

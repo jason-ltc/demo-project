@@ -1,3 +1,7 @@
+---
+id: home_en
+---
+
 <p align="left">
 <img height="96" src="https://linktime-public.oss-cn-qingdao.aliyuncs.com/linktime-homepage/kdp/kdp-logo.png" />
 </p>
