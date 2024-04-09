@@ -15,33 +15,33 @@ platforms:
     link: https://www.linktimecloud.com/
 navigation:
   - name: Home
-    link: ./index.html
+    link: ./README.html
     sublist:
       - name: Getting Started
-        link: ./index.html#Getting Started
+        link: ./README.html#Getting Started
       - name: Community
-        link: ./index.html#Community
+        link: ./README.html#Community
       - name: Contributing
-        link: ./index.html#Contributing
+        link: ./README.html#Contributing
       - name: Code of Conduct
-        link: ./index.html#Code of Conduct
+        link: ./README.html#Code of Conduct
   - name: Getting Started
     link: ./docs/en/overview/index.html
     sublist:
       - name: Architecture
-        link: ./docs/en/overview/index.html#Architecture
+        link: ./docs/en/overview/overview.html#Architecture
       - name: Advantages
-        link: ./docs/en/overview/index.html#Advantages
+        link: ./docs/en/overview/overview.html#Advantages
       - name: Highlights
-        link: ./docs/en/overview/index.html#Highlights
+        link: ./docs/en/overview/overview.html#Highlights
       - name: Quick Start
-        link: ./docs/en/overview/index.html#Quick\ Start
+        link: ./docs/en/overview/overview.html#Quick\ Start
       - name: Advanced Installation
-        link: ./docs/en/overview/index.html#Advanced\ Installation
+        link: ./docs/en/overview/overview.html#Advanced\ Installation
   - name: Catalogs
-    link: ./docs/en/catalog-overview/index.html
+    link: ./docs/en/catalog-overview/catalogs.html
   - name: Developer Guide
-    link: ./docs/en/developer-guide/index.html
+    link: ./docs/en/developer-guide/developer-guide.html
 
 
 #remote_theme: granbom/jekyll-theme-bootstrap4-navbar-cdn
