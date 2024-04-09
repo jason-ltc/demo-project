@@ -4,16 +4,19 @@ description: >-
 #markdown: GFM
 plugins:
     - jekyll-remote-theme
-url: 'https://jason-ltc.github.io/'
-baseurl: '/demo-project'
+    - jekyll-sitemap
+    - jekyll-seo-tag
+    - jemoji
 
-remote_theme: sighingnow/jekyll-gitbook
-favicon_path: favicon.ico
-syntax_highlighter_style: colorful
-toc:
-    enabled: true
-    h_min: 1
-    h_max: 3
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+logo: 'https://linktime-public.oss-cn-qingdao.aliyuncs.com/linktime-homepage/kdp/kdp-logo.png'
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/linktimecloud/kubernetes-data-platform
+navigation:
+  - name: Home
+    link: ./README.html
 
 # remote_theme: pages-themes/cayman@v0.2.0
 # show_downloads: false
