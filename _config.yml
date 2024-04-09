@@ -1,11 +1,14 @@
 title: Kubernetes Data Platform
 description: >-
   KDP(Kubernetes Data Platform) delivers a modern, hybrid and cloud-native data platform based on Kubernetes.
-markdown: GFM
+#markdown: GFM
 plugins:
     - jekyll-remote-theme
+url: 'https://jason-ltc.github.io/'
+baseurl: '/demo-project'
 
 remote_theme: sighingnow/jekyll-gitbook
+favicon_path: favicon.ico
 syntax_highlighter_style: colorful
 toc:
     enabled: true
