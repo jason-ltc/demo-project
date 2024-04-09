@@ -1,5 +1,6 @@
 ---
-layout: default
+id: overview_en
+title: Overview
 ---
 
 # Overview

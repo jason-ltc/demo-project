@@ -4,21 +4,15 @@ description: >-
 #markdown: GFM
 plugins:
     - jekyll-remote-theme
-    - jekyll-sitemap
-    - jekyll-seo-tag
-    - jemoji
 
-remote_theme: vaibhavvikas/jekyll-theme-minimalistic
-logo: 'https://linktime-public.oss-cn-qingdao.aliyuncs.com/linktime-homepage/kdp/kdp-logo.png'
-platforms:
-  - name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/linktimecloud/kubernetes-data-platform
-navigation:
-  - name: Home
-    link: ./index.html
-  - name: Overview
-    link: ./docs/zh/getting-started/overview.html
+remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+search_enabled: true
+sidebar:
+  - home_en
+  - label: Getting Started
+    children:
+      - overview_en
+      - quickstart_en
 
 # remote_theme: pages-themes/cayman@v0.2.0
 # show_downloads: false
