@@ -1,3 +1,8 @@
+---
+id: advanced_install_en
+title: Advanced Installation
+---
+
 # Advanced Installation
 
 Users can quickly deploy KDP on an existing Kubernetes cluster using the CLI.

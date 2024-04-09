@@ -8,11 +8,11 @@ plugins:
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 search_enabled: true
 sidebar:
-  - home_en
   - label: Getting Started
     children:
       - overview_en
-      - quickstart_en
+      - quick_start_en
+      - advanced_install_en
 
 # remote_theme: pages-themes/cayman@v0.2.0
 # show_downloads: false

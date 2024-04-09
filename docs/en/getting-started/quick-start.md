@@ -1,8 +1,7 @@
 ---
-id: quickstart_en
+id: quick_start_en
 title: Quick Start
 ---
-
 
 # Quick Start
 Users can quickly experience KDP functions on a stand-alone environment.
