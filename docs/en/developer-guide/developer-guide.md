@@ -1,5 +1,5 @@
 ---
-layout: default
+id: developer_guide_en
 ---
 
 # Developer Guide

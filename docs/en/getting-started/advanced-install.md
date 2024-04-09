@@ -1,6 +1,5 @@
 ---
 id: advanced_install_en
-title: Advanced Installation
 ---
 
 # Advanced Installation

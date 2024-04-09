@@ -1,3 +1,7 @@
+---
+id: scene_tutorials_en
+---
+
 # Scene Tutorials
 
 Users can refer to the following scenario tutorials to practice how to do data ingestion and developing through KDP:

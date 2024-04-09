@@ -1,6 +1,5 @@
 ---
 id: quick_start_en
-title: Quick Start
 ---
 
 # Quick Start

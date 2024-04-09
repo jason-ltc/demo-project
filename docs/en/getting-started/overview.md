@@ -1,6 +1,5 @@
 ---
 id: overview_en
-title: Overview
 ---
 
 # Overview
