@@ -16,7 +16,9 @@ platforms:
     link: https://github.com/linktimecloud/kubernetes-data-platform
 navigation:
   - name: Home
-    link: ./README.html
+    link: ./index.html
+  - name: Overview
+    link: ./docs/zh/getting-started/overview.html
 
 # remote_theme: pages-themes/cayman@v0.2.0
 # show_downloads: false
