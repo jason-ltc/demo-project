@@ -1,19 +1,13 @@
-title: Kubernetes Data Platform
+title: Jason demo project
 description: >-
-  KDP(Kubernetes Data Platform) delivers a modern, hybrid and cloud-native data platform based on Kubernetes.
+  This is a demo project.
 markdown: GFM
 plugins:
     - jekyll-remote-theme
 
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 search_enabled: true
-sidebar:
-  - overview_en
-  - quick_start_en
-  - advanced_install_en
-  - catalogs_en
-  - scene_tutorials_en
-  - developer_guide_en
+sidebar: []
 
 # remote_theme: pages-themes/cayman@v0.2.0
 # show_downloads: false
