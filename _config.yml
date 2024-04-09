@@ -5,46 +5,12 @@ markdown: GFM
 plugins:
     - jekyll-remote-theme
 
-remote_theme: vaibhavvikas/jekyll-theme-minimalistic
-color-scheme: auto
-logo: https://linktime-public.oss-cn-qingdao.aliyuncs.com/linktime-homepage/kdp/kdp-logo.png
-favicon: true
-platforms:
-  - name: GitHub
-    icon: <i class="fa fa-github" aria-hidden="true"></i>
-    link: https://github.com/linktimecloud/kubernetes-data-platform
-  - name: LinkTime Cloud
-    icon: <i class="fa fa-users" aria-hidden="true"></i>
-    link: https://www.linktimecloud.com/
-navigation:
-  - name: Getting Started
-    link: docs/en/overview/overview.html
-    sublist:
-      - name: Architecture
-        link: docs/en/overview/overview.html#architecture
-      - name: Advantages
-        link: docs/en/overview/overview.html#advantages
-      - name: Highlights
-        link: docs/en/overview/overview.html#highlights
-      - name: Quick Start
-        link: docs/en/overview/overview.html#quickstart
-      - name: Advanced Installation
-        link: docs/en/overview/overview.html#advanced-install
-  - name: Catalogs
-    link: docs/en/catalog-overview/catalogs.html
-  - name: Developer Guide
-    link: docs/en/developer-guide/developer-guide.html
-
-
-#remote_theme: granbom/jekyll-theme-bootstrap4-navbar-cdn
+remote_theme: sighingnow/jekyll-gitbook
+syntax_highlighter_style: colorful
+toc:
+    enabled: true
+    h_min: 1
+    h_max: 3
 
 # remote_theme: pages-themes/cayman@v0.2.0
 # show_downloads: false
-
-# remote_theme: "jeffreytse/jekyll-theme-yat"
-# favicon: "https://linktime-public.oss-cn-qingdao.aliyuncs.com/linktime-homepage/kdp/kdp-logo-small.png"
-# defaults:
-#   home:
-#     heading: "Kubernetes Data Platform"
-#     subheading: "KDP(Kubernetes Data Platform) delivers a modern, hybrid and cloud-native data platform based on Kubernetes."
-#     banner: "https://linktime-public.oss-cn-qingdao.aliyuncs.com/linktime-homepage/kdp/kdp-banner-en.png"
