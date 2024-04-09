@@ -18,15 +18,15 @@ navigation:
     link: ./docs/en/overview/overview.html
     sublist:
       - name: Architecture
-        link: ./docs/en/overview/overview.html#Architecture
+        link: ./docs/en/overview/overview.html#architecture
       - name: Advantages
-        link: ./docs/en/overview/overview.html#Advantages
+        link: ./docs/en/overview/overview.html#advantages
       - name: Highlights
-        link: ./docs/en/overview/overview.html#Highlights
+        link: ./docs/en/overview/overview.html#highlights
       - name: Quick Start
-        link: ./docs/en/overview/overview.html#Quick\ Start
+        link: ./docs/en/overview/overview.html#quickstart
       - name: Advanced Installation
-        link: ./docs/en/overview/overview.html#Advanced\ Installation
+        link: ./docs/en/overview/overview.html#advanced-install
   - name: Catalogs
     link: ./docs/en/catalog-overview/catalogs.html
   - name: Developer Guide

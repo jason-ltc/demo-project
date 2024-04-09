@@ -6,14 +6,17 @@ layout: default
 
 KDP(Kubernetes Data Platform) delivers a modern, hybrid and cloud-native data platform based on Kubernetes. It leverages the cloud-native capabilities of Kubernetes to manage data platform effectively.
 
+<a name="architecture"></a>
 ## Architecture
 ![KDP](https://linktime-public.oss-cn-qingdao.aliyuncs.com/linktime-homepage/kdp/kdp-archi-en.png)
 
+<a name="advantages"></a>
 ## Advantages
 * More efficient big data cluster management: KDP simplifies the operation and maintenance of big data clusters through standardized processes, and provides a UI interface to further improve the efficiency of deployment, upgrade and other operations
 * More efficient integration of big data components: KDP provides standardized and automated deployment and operation of big data components, greatly reducing the development and online time of big data projects
 * Higher cluster resource utilization: Compared with about 30% resource utilization of traditional big data platforms, KDP can be significantly increased to more than 60%
 
+<a name="highlights"></a>
 ## Highlights
 * Unified Application release and management process based on OAM(Open Application Model) standard, open configuration management between components, and the implementation of IaC(Infra as Code)
 * A unified abstraction layer is created on top of the Operator and Helm Chart of big data components to achieve standardization and automation of publishing and operation
@@ -66,8 +69,10 @@ KDP provides cloud-native scheduling mechanisms for computing engine components 
 | Flink | * Extends Flink Operator from the open source community <br> * Supports unified scheduling of Flink and Spark jobs |
 | ... | ... |
 
+<a name="quickstart"></a>
 ## Quick Start
 For quick start of KDP, please refer to [Quick Start](./quick-start.md)
 
+<a name="advanced-install"></a>
 ## Advanced Installation
 For advanced installation of KDP, please refer to [Advanced Installation](./advanced-install.md)
