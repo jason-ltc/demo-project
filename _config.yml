@@ -14,19 +14,8 @@ platforms:
   - name: LinkTime Cloud
     link: https://www.linktimecloud.com/
 navigation:
-  - name: Home
-    link: ./README.html
-    sublist:
-      - name: Getting Started
-        link: ./README.html#Getting Started
-      - name: Community
-        link: ./README.html#Community
-      - name: Contributing
-        link: ./README.html#Contributing
-      - name: Code of Conduct
-        link: ./README.html#Code of Conduct
   - name: Getting Started
-    link: ./docs/en/overview/index.html
+    link: ./docs/en/overview/overview.html
     sublist:
       - name: Architecture
         link: ./docs/en/overview/overview.html#Architecture
